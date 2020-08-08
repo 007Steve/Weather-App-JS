@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+ 
+    
+}
+
+
+.container{
+    background-color: bisque;
+    position: relative;
+    left: 400px;
+    top: 500px;
+    height: 500px;
+    width: 1000px;
+    border-radius: 10px;
+    text-align: center;
+    background-color: #1ea5f7;
+    background-image: linear-gradient(135deg, #1ea5f7 0%, #2453e4 100%);
+
+}
+
+.app-title{
+    color:  white;
+    font-size: 50px;
+}
+.weather-container{
+  height: 440;
+  border-radius: 10px;
+}
+
+#icon{
+    width: 90px;
+   
+}
+
+.degree{
+    font-size: 90px;
+    padding-top: 40px;
+    color: white;
+}
+
+
+.descripton{
+    padding-top: 40px;
+    font-size: 34px;
+}
+.descripton-text{
+    color: white;
+}
+
+.location-timezone{
+    color: white;
+    padding-top: 30px;
+    font-size: 70px;
+}
